@@ -1,0 +1,23 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Fascinate', cursive;
+    }
+    background-image: url('../images/circle-blues.png');
+    .navbar, footer {
+        background-color: gold;
+    }
+
+    .admin-img-list {
+        width: 100%;
+        max-width: 100px;
+    }
+
+    .carousel-caption {
+        color: blue;
+        background-color: gold;
+    }
+}
+
+
+
